@@ -1,0 +1,382 @@
+{
+  "id": "sun-rslantonie",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@rslantonie Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_a2bd9fe92e49",
+    "display_name": "rslantonie",
+    "user_id": "@rslantonie",
+    "description": "Community Archive-derived proof-of-search sun for @rslantonie.",
+    "document_count": 4450,
+    "word_count": 62159,
+    "active_days": 847,
+    "emissions": [
+      "Visakanv",
+      "S0Uldirect0R",
+      "Love",
+      "Feel",
+      "Yea",
+      "Here"
+    ],
+    "generated_at": "2026-06-27T17:09:16.189358+00:00",
+    "color": "#f59e0b",
+    "mass": 11.037
+  },
+  "planets": [
+    {
+      "id": "planet_d1801177ab2c",
+      "name": "Visakanv",
+      "summary": "Archive cluster around visakanv: 3768 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "visakanv",
+        "good",
+        "time",
+        "tasshinfogleman",
+        "the_wilderless"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5dcdb8ec1264",
+          "title": "Visakanv receipt from 2024-10-01",
+          "excerpt": "an interesting side effect of my somatic practice is that it traded my inner dialogue with muscular tension sensitivity",
+          "source_document_id": "1841022394842169431",
+          "timestamp": "2024-10-01T07:48:38+00:00",
+          "url": "https://x.com/rslantonie/status/1841022394842169431",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: visakanv, good, time, tasshinfogleman."
+        },
+        {
+          "id": "art_76caa1ab43f2",
+          "title": "Visakanv receipt from 2025-05-03",
+          "excerpt": "@nosilverv ime it's more like, https://t.co/e4kUbPJI59",
+          "source_document_id": "1918656582285468050",
+          "timestamp": "2025-05-03T13:19:10+00:00",
+          "url": "https://x.com/rslantonie/status/1918656582285468050",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: visakanv, good, time, tasshinfogleman."
+        },
+        {
+          "id": "art_7eed4a519f63",
+          "title": "Visakanv receipt from 2022-03-02",
+          "excerpt": "finally finished my first read-through of @visakanv's introspect\n\ni think it's safe to say that this book has gently and casually shattered my self-concept",
+          "source_document_id": "1498825604107366403",
+          "timestamp": "2022-03-02T01:00:45+00:00",
+          "url": "https://x.com/rslantonie/status/1498825604107366403",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: visakanv, good, time, tasshinfogleman."
+        },
+        {
+          "id": "art_30f1215f02c3",
+          "title": "Visakanv receipt from 2023-01-06",
+          "excerpt": "omg yall it’s feng shui marie kondo https://t.co/xXwjaxUcBh",
+          "source_document_id": "1611284660717514753",
+          "timestamp": "2023-01-06T08:52:53+00:00",
+          "url": "https://x.com/rslantonie/status/1611284660717514753",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: visakanv, good, time, tasshinfogleman."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_069e48f6993f",
+      "proof_score": 1,
+      "mass": 32.425,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_76e780980798",
+      "name": "S0Uldirect0R",
+      "summary": "Archive cluster around s0uldirect0r: 200 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "s0uldirect0r",
+        "gptbrooke",
+        "hekatonsure",
+        "huggingpuppy",
+        "strangestloop"
+      ],
+      "artifacts": [
+        {
+          "id": "art_bd935586be19",
+          "title": "S0Uldirect0R receipt from 2025-06-23",
+          "excerpt": "@bashu_thanks @jmes for heralding us through the maelstrom before the festivities\n\n@s0ulDirect0r for being honest and loving as hell\n\n@emergentvibe for being a grounded battle buddy\n\n@cursedmargarita for holding confessions",
+          "source_document_id": "1937166753613951165",
+          "timestamp": "2025-06-23T15:11:59+00:00",
+          "url": "https://x.com/rslantonie/status/1937166753613951165",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: s0uldirect0r, gptbrooke, hekatonsure, huggingpuppy."
+        },
+        {
+          "id": "art_280680dae135",
+          "title": "S0Uldirect0R receipt from 2022-12-10",
+          "excerpt": "@zencephalon @gptbrooke @PiquantParvenu @manda_ngo @hekatonsure @neallseth @nopranablem same as above + @s0ulDirect0r @FanParticle @natural_hazard",
+          "source_document_id": "1601581987982356480",
+          "timestamp": "2022-12-10T14:17:56+00:00",
+          "url": "https://x.com/rslantonie/status/1601581987982356480",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: s0uldirect0r, gptbrooke, hekatonsure, huggingpuppy."
+        },
+        {
+          "id": "art_ce5684079d86",
+          "title": "S0Uldirect0R receipt from 2022-12-18",
+          "excerpt": "@s0ulDirect0r @not_a_hot_girl 🐉 edge of adventure\n🌀 cosy weighted blanket\n⛵️ ayy",
+          "source_document_id": "1604287581385920513",
+          "timestamp": "2022-12-18T01:29:00+00:00",
+          "url": "https://x.com/rslantonie/status/1604287581385920513",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: s0uldirect0r, gptbrooke, hekatonsure, huggingpuppy."
+        },
+        {
+          "id": "art_5731608ade98",
+          "title": "S0Uldirect0R receipt from 2022-05-18",
+          "excerpt": "@s0ulDirect0r @missrachelreads @NormanChella @herrowna @vivekt17 @reddy2go as an immediate answer, eroticism comes from a heightened, if not visceral bodily awareness\n\nan erotic conversation can move energy from the head and redirect it downward to other parts of the body",
+          "source_document_id": "1526747569405054976",
+          "timestamp": "2022-05-18T02:12:40+00:00",
+          "url": "https://x.com/rslantonie/status/1526747569405054976",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: s0uldirect0r, gptbrooke, hekatonsure, huggingpuppy."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_358e618bca98",
+      "proof_score": 0.88,
+      "mass": 23.46,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_f1495aab833d",
+      "name": "Love",
+      "summary": "Archive cluster around love: 137 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "love",
+        "start",
+        "myself",
+        "time",
+        "around"
+      ],
+      "artifacts": [
+        {
+          "id": "art_31b7cd5fe207",
+          "title": "Love receipt from 2022-03-12",
+          "excerpt": "today is my 24th solar return ☀️💞\n\nbeing on here has brought so much light to parts of myself that are deeply nourished by its rays\n\nas a birthday gift, i would love to hear about something or someone that you receive deep nourishment from\n\nhere’s to a new trip round the sun 🌞",
+          "source_document_id": "1502782093197135872",
+          "timestamp": "2022-03-12T23:02:26+00:00",
+          "url": "https://x.com/rslantonie/status/1502782093197135872",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, start, myself, time."
+        },
+        {
+          "id": "art_05da42fab195",
+          "title": "Love receipt from 2023-03-26",
+          "excerpt": "this song has been ringing out in my chest today so here’s some digital love from daft punk https://t.co/pDsUrcJKSl",
+          "source_document_id": "1639888466757718016",
+          "timestamp": "2023-03-26T07:14:12+00:00",
+          "url": "https://x.com/rslantonie/status/1639888466757718016",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, start, myself, time."
+        },
+        {
+          "id": "art_90a8868b0653",
+          "title": "Love receipt from 2025-08-21",
+          "excerpt": "bro unblocking yourself on a mini project feels incredible i'm so happy i love programming",
+          "source_document_id": "1958596969854578773",
+          "timestamp": "2025-08-21T18:28:01+00:00",
+          "url": "https://x.com/rslantonie/status/1958596969854578773",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, start, myself, time."
+        },
+        {
+          "id": "art_3c6f63fc9ca3",
+          "title": "Love receipt from 2021-11-24",
+          "excerpt": "this is also a love letter, from us to you. thank you for allowing us to exist in your space for a brief moment, allowing us to be seen and heard, as if it were the first time.",
+          "source_document_id": "1463386972903198727",
+          "timestamp": "2021-11-24T06:00:17+00:00",
+          "url": "https://x.com/rslantonie/status/1463386972903198727",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, start, myself, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d7b5a7e1ee0f",
+      "proof_score": 0.843,
+      "mass": 24.583,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_b94e978256bd",
+      "name": "Feel",
+      "summary": "Archive cluster around feel: 118 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "feel",
+        "sometimes",
+        "around",
+        "enough",
+        "want"
+      ],
+      "artifacts": [
+        {
+          "id": "art_71d7141692f6",
+          "title": "Feel receipt from 2025-08-25",
+          "excerpt": "if tiredness shows up in the form of emotional knottedness, active creation can feel more restful than static relaxation\n\nanyways here’s weird fishes, https://t.co/USWkLIOtPG",
+          "source_document_id": "1959789052410187959",
+          "timestamp": "2025-08-25T01:24:55+00:00",
+          "url": "https://x.com/rslantonie/status/1959789052410187959",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, sometimes, around, enough."
+        },
+        {
+          "id": "art_2952b54010e4",
+          "title": "Feel receipt from 2024-10-01",
+          "excerpt": "some patterns of thought that felt spiraling or constrictive land as flinches in the body— configurations of tensions that made my body feel achy to be in",
+          "source_document_id": "1841023444374470823",
+          "timestamp": "2024-10-01T07:52:48+00:00",
+          "url": "https://x.com/rslantonie/status/1841023444374470823",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, sometimes, around, enough."
+        },
+        {
+          "id": "art_daf5ce3f015e",
+          "title": "Feel receipt from 2024-11-04",
+          "excerpt": "so i recently decided to lock my account as an exercise in locality. feel like i've grown enough personal relationships with people from twitter that i want to be broadcasting explicitly for those who choose to tune into what i want to say",
+          "source_document_id": "1853560957878071713",
+          "timestamp": "2024-11-04T22:12:24+00:00",
+          "url": "https://x.com/rslantonie/status/1853560957878071713",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, sometimes, around, enough."
+        },
+        {
+          "id": "art_4cea7f8c9b1d",
+          "title": "Feel receipt from 2023-07-11",
+          "excerpt": "whoa turns out you can compassionately gaze into your eyes in the mirror and watch yourself feel better",
+          "source_document_id": "1678567728024788992",
+          "timestamp": "2023-07-11T00:51:47+00:00",
+          "url": "https://x.com/rslantonie/status/1678567728024788992",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, sometimes, around, enough."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_968a31e6dfde",
+      "proof_score": 0.828,
+      "mass": 24.039,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_2ac7bbf46409",
+      "name": "Yea",
+      "summary": "Archive cluster around yea: 112 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yea",
+        "hell",
+        "kind",
+        "day",
+        "heck"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a9e8472bc936",
+          "title": "Yea receipt from 2023-10-04",
+          "excerpt": "so yea i just quit my dayjob https://t.co/2aj6aqMgkk",
+          "source_document_id": "1709539666050036026",
+          "timestamp": "2023-10-04T12:03:12+00:00",
+          "url": "https://x.com/rslantonie/status/1709539666050036026",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yea, hell, kind, day."
+        },
+        {
+          "id": "art_3bcb415bc3cd",
+          "title": "Yea receipt from 2023-07-29",
+          "excerpt": "took me a while to get there, but yea, things do take time",
+          "source_document_id": "1685186427775270912",
+          "timestamp": "2023-07-29T07:12:08+00:00",
+          "url": "https://x.com/rslantonie/status/1685186427775270912",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yea, hell, kind, day."
+        },
+        {
+          "id": "art_8a86122fb348",
+          "title": "Yea receipt from 2023-10-04",
+          "excerpt": "yea that feels like a good place to stop.\n\ngn y’all, see you tomorrow",
+          "source_document_id": "1709555406929035757",
+          "timestamp": "2023-10-04T13:05:45+00:00",
+          "url": "https://x.com/rslantonie/status/1709555406929035757",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yea, hell, kind, day."
+        },
+        {
+          "id": "art_ff679f2a43ea",
+          "title": "Yea receipt from 2025-01-05",
+          "excerpt": "okay yea u right https://t.co/sSqKtwCCrb",
+          "source_document_id": "1875983820731846836",
+          "timestamp": "2025-01-05T19:12:51+00:00",
+          "url": "https://x.com/rslantonie/status/1875983820731846836",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yea, hell, kind, day."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7093e096a313",
+      "proof_score": 0.823,
+      "mass": 21.971,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_88a5467a5d43",
+      "name": "Here",
+      "summary": "Archive cluster around here: 115 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "here",
+        "really",
+        "something",
+        "other",
+        "sicongshen"
+      ],
+      "artifacts": [
+        {
+          "id": "art_52ee930296f2",
+          "title": "Here receipt from 2025-04-11",
+          "excerpt": "@tasshinfogleman this is God’s work right here, thank you bro",
+          "source_document_id": "1910647306900189402",
+          "timestamp": "2025-04-11T10:53:10+00:00",
+          "url": "https://x.com/rslantonie/status/1910647306900189402",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: here, really, something, other."
+        },
+        {
+          "id": "art_efb2ce9724fa",
+          "title": "Here receipt from 2024-10-01",
+          "excerpt": "anyways i’m just freestyling but everything that got me here i picked up from this guy, so if this sounds interesting check him out https://t.co/TtnaJs8OTG",
+          "source_document_id": "1841026359042457792",
+          "timestamp": "2024-10-01T08:04:23+00:00",
+          "url": "https://x.com/rslantonie/status/1841026359042457792",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: here, really, something, other."
+        },
+        {
+          "id": "art_b1884c6f450d",
+          "title": "Here receipt from 2025-01-03",
+          "excerpt": "inspired by anansi's dopeness, decided to make a vibeboard of my own. here's what it looks like so far, i'll come back to it after a grocery run to add more photos, and find some nice arrangement with a proper centerpiece https://t.co/mN4k1qHBdg https://t.co/uTevHQBplQ",
+          "source_document_id": "1875221193445568644",
+          "timestamp": "2025-01-03T16:42:27+00:00",
+          "url": "https://x.com/rslantonie/status/1875221193445568644",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: here, really, something, other."
+        },
+        {
+          "id": "art_ebab6965f37f",
+          "title": "Here receipt from 2022-06-01",
+          "excerpt": "and here,s chaotic screenshot https://t.co/wFM0s74wR3",
+          "source_document_id": "1531942755857010689",
+          "timestamp": "2022-06-01T10:16:29+00:00",
+          "url": "https://x.com/rslantonie/status/1531942755857010689",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: here, really, something, other."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e8d68acbcf66",
+      "proof_score": 0.825,
+      "mass": 22.925,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
